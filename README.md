@@ -1,1 +1,1 @@
-# Laboratorio-4---Redes-de-Comunicaci-n-y-M-quinas-Virtuales
+# Laboratorio 4 - Redes de Comunicación y Máquinas Virtuales
